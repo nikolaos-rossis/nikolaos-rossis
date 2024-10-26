@@ -52,7 +52,7 @@ I'm a 21 year old Undergradute Student @ Athens University of Business and Econo
 
 ## 📌 Projects
 
-### 🔥 Featured Project: [Server - Client Property Listing Android App](https://github.com/YourGitHubUsername/ProjectRepo)
+### 🔥 Featured Project: [Server - Client Property Listing Android App](https://github.com/nikolaos-rossis/Property-Listing-Android-App)
 A Full-Stack project written in Java using a Custom Made MapReduce Protocol via Multithreaded Programming and Socket Communication.
 - Client-Side: Implements a Front-End Android UI that handles the user input, which is then sent to the Server.
 - Server-Side (Server): Handles the distribution of data to "Worker PC" Threads
