@@ -62,10 +62,12 @@ A Full-Stack project written in Java using a Custom Made MapReduce Protocol via 
   
 
 ### 🌟 Other Projects
-- [IMDB Review Classification](https://github.com/YourGitHubUsername/Project1) - Brief description of project.
-- [AirBNB Clone Website](https://github.com/YourGitHubUsername/Project2) - Brief description of project.
-- [2D Platformer Game](https://github.com/YourGitHubUsername/Project3) - Brief description of project.
-- [Not Finished](https://github.com/YourGitHubUsername/Project4) - Brief description of project.
+- [IMDB Review Classification](https://github.com/nikolaos-rossis/IMDB-Reviews-Classification) - Classification using custom-made Naive Bayes, Logistic Regression and RNN algorithms featuring plots and accuracy tables.
+- [AirBNB-Type Website](https://github.com/nikolaos-rossis/AirBNB-Type-Website) - Website written in HTML containing CSS and JavaScript featuring interactive buttons, top-down menus, grids and forms. 
+- [2D Platformer Game](https://github.com/nikolaos-rossis/Crazy-Frogo-2D-Platformer-Game) - 2D Platformer Game written in Godot Engine.
+- [Compiling a Coding Language](https://github.com/nikolaos-rossis/Compilers-Language-Analysis) - Lexical, Syntax and Semantic Analysis using Java on a testing coding language called "MiniPython".
+- [Netflix-Type UI](https://github.com/nikolaos-rossis/Netflix-Type-UI) - A Netflix type UI written in C++ containing a "Search" option for the included movies on Genre and Year.
+- [Bridge Problem Solving with Astar Algorithm](https://github.com/nikolaos-rossis/Astar-Algorithm-Pathfinder) - Solving the Crossing Bridge with Torch problem using the A* Algorithm and a custom heuristic.
 
 ---
 
